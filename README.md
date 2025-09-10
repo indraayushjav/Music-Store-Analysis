@@ -4,7 +4,7 @@
 
 **Level**: Intermediate 
 ## Objective
-Analyzed a music store dataset using beginner, intermediate, and advanced SQL techniques to identify high-performing cities based on sales and customer engagement. The goal was to uncover actionable insights to support data-driven business decisions, such as optimizing marketing strategies and store expansion planning.
+Analyzed a music store dataset using beginner, intermediate SQL techniques to identify high-performing cities based on sales and customer engagement. The goal was to uncover actionable insights to support data-driven business decisions, such as optimizing marketing strategies and store expansion planning.
 
 ## Question set 1 - Easy
 
